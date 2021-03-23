@@ -15,12 +15,13 @@
 <br />
 <br />
 
-### My GitHub activitiy 🌱
+### My GitHub activity 🌱
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artuone83&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Languages
+### My top languages
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artuone83&theme=vue)](https://github.com/artuone83/github-readme-stats)
 
