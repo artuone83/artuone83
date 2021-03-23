@@ -9,4 +9,4 @@
 ### Let's stay in touch
 [<img align="left" alt="norbertsuski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/artur-woźniak
+[linkedin]: https://linkedin.com/in/artur-woźniak-285a23155
