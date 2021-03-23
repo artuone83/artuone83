@@ -2,7 +2,8 @@
 
 ### Technology stack
 <br />
-
+<img style='visibility: hidden' src='' width='24' height='24'/>
+<img align='left' alt='javascript' src='./assets/javascript-original.svg' width='24' height='24'/>
 <img align='left' alt='typescript' src='./assets/typescript-plain.svg' width='24' height='24' />
 <img align='left' alt='react' src='./assets/react-original.svg' width='24' height='24' />
 <img align='left' alt='redux' src='./assets/redux-original.svg' width='24' height='24' />
